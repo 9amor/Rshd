@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="limit_day">نسبة استهلاك الكهرباء خلال %d أيام</string>
+    <string name="limit_days">نسبة استهلاك الكهرباء خلال %d يوم</string>
+    <string name="hi" >مرحبا %s</string>
+    <string name="user_limit">حدك الشهري للفاتورة %d</string>
+
+    <string name="devices">الأجهزة</string>
+    <string name="usage">الاستهلاك</string>
+    <string name="riyal">ريال</string>
+    <string name="app_name">رشّد</string>
+    <string name="main_activity_title">الصفحة الرئيسية</string>
+    <string name="title_activity_login">تسجيل الدخول</string>
+    <string name="total_text">المجموع</string>
+
+</resources>
